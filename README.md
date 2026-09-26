@@ -1,1 +1,1 @@
-# LojaVirtualBonecas_62.2Julia
+Loja Virtual/ e-commerce De bonecas colecionáveis
